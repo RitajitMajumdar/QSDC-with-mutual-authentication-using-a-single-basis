@@ -1,0 +1,2 @@
+# QSDC-with-mutual-authentication-using-a-single-basis
+This IPython Notebook contains the code that was used to generate the results in this paper. This notebook was executed in the IBM Quantum Lab. Necessary changes may be required for running in local device. This work is in collaboration with Nayana Das, and Dr. Gautam Paul (Indian Statistical Institute). The original paper is available in arXiv:2101.03577.
